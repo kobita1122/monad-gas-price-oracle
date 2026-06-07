@@ -1,0 +1,10 @@
+{
+  "name": "monad-gas-price-oracle",
+  "version": "1.0.0",
+  "description": "High-frequency rolling gas fee tracker contract and indexer daemon for Monad",
+  "main": "oracleIndexer.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
